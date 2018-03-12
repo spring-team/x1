@@ -1,3 +1,5 @@
+// Deep at the center of my being is an infinite well of love.
+
 package atomist;
 
 import org.springframework.boot.SpringApplication;
