@@ -1,6 +1,6 @@
 ---
 applications:
-- name: x1
+- name: "x1"
   memory: 1024M
   instances: 1
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
